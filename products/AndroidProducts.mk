@@ -7,7 +7,9 @@ PRODUCT_MAKEFILES += \
     $(LOCAL_DIR)/blueline/pixeldust_blueline.mk \
     $(LOCAL_DIR)/bonito/pixeldust_bonito.mk \
     $(LOCAL_DIR)/cheetah/pixeldust_cheetah.mk \
+    $(LOCAL_DIR)/coral/pixeldust_coral.mk \
     $(LOCAL_DIR)/crosshatch/pixeldust_crosshatch.mk \
+    $(LOCAL_DIR)/flame/pixeldust_flame.mk \
     $(LOCAL_DIR)/lynx/pixeldust_lynx.mk \
     $(LOCAL_DIR)/oriole/pixeldust_oriole.mk \
     $(LOCAL_DIR)/panther/pixeldust_panther.mk \
@@ -27,9 +29,15 @@ COMMON_LUNCH_CHOICES += \
     pixeldust_cheetah-userdebug \
     pixeldust_cheetah-user \
     pixeldust_cheetah-eng \
+    pixeldust_coral-userdebug \
+    pixeldust_coral-user \
+    pixeldust_coral-eng \
     pixeldust_crosshatch-userdebug \
     pixeldust_crosshatch-user \
     pixeldust_crosshatch-eng \
+    pixeldust_flame-userdebug \
+    pixeldust_flame-user \
+    pixeldust_flame-eng \
     pixeldust_lynx-userdebug \
     pixeldust_lynx-user \
     pixeldust_lynx-eng \
